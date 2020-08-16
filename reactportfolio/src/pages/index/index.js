@@ -1,5 +1,6 @@
 import React from "react";
 import '../styles/index.css'
+import history from "../../routes/history";
 
 function Index(){
     return (
@@ -9,7 +10,8 @@ function Index(){
                 <div className="typing-demo">
                     <h1>Hello World - My name is Melanie Ponce.</h1>
                 </div>
-            <button onClick="#';" className="noselect"></button>
+            <button onClick={() => history.push("/Main")} className="noselect">Learn More!</button>
+
             </div>
         </div>
     </div>
