@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/REACT-Portfolio/static/css/main.38fb628a.chunk.css",
+    "main.js": "/REACT-Portfolio/static/js/main.a48ce3d5.chunk.js",
+    "main.js.map": "/REACT-Portfolio/static/js/main.a48ce3d5.chunk.js.map",
+    "runtime-main.js": "/REACT-Portfolio/static/js/runtime-main.97369afb.js",
+    "runtime-main.js.map": "/REACT-Portfolio/static/js/runtime-main.97369afb.js.map",
+    "static/js/2.52a6e238.chunk.js": "/REACT-Portfolio/static/js/2.52a6e238.chunk.js",
+    "static/js/2.52a6e238.chunk.js.map": "/REACT-Portfolio/static/js/2.52a6e238.chunk.js.map",
+    "index.html": "/REACT-Portfolio/index.html",
+    "precache-manifest.0a0ef70e970508fa4a274989605eae53.js": "/REACT-Portfolio/precache-manifest.0a0ef70e970508fa4a274989605eae53.js",
+    "service-worker.js": "/REACT-Portfolio/service-worker.js",
+    "static/css/main.38fb628a.chunk.css.map": "/REACT-Portfolio/static/css/main.38fb628a.chunk.css.map",
+    "static/js/2.52a6e238.chunk.js.LICENSE.txt": "/REACT-Portfolio/static/js/2.52a6e238.chunk.js.LICENSE.txt",
+    "static/media/Brew4UHeader.png": "/REACT-Portfolio/static/media/Brew4UHeader.f2cc7341.png",
+    "static/media/PassGen.png": "/REACT-Portfolio/static/media/PassGen.ab3975b0.png",
+    "static/media/Quest_of_Corona.png": "/REACT-Portfolio/static/media/Quest_of_Corona.2f7bc484.png",
+    "static/media/Quiz.png": "/REACT-Portfolio/static/media/Quiz.bb188f96.png",
+    "static/media/ReadMe.png": "/REACT-Portfolio/static/media/ReadMe.48a5249c.png",
+    "static/media/croppedProfileImage.JPG": "/REACT-Portfolio/static/media/croppedProfileImage.fa32e8fb.JPG",
+    "static/media/Style.css": "/REACT-Portfolio/static/media/mainPortfolioBkg.7def0f92.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97369afb.js",
+    "static/js/2.52a6e238.chunk.js",
+    "static/css/main.38fb628a.chunk.css",
+    "static/js/main.a48ce3d5.chunk.js"
+  ]
+}
